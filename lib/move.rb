@@ -10,4 +10,3 @@ end
 def input_to_index(index)
   return index.to_i - 1
 end
-
